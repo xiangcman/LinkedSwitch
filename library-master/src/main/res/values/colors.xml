@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="first_toggle_select_item_back">#eeeeeeee</color>
+    <color name="toggle_item_select">#0288d1</color>
+    <color name="toggle_item_normal">#cccccc</color>
+    <color name="first_toggle_back">#dddddd</color>
+</resources>

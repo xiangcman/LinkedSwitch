@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DoubleToggleView">
+        <!--第一个联动开关的宽度-->
+        <attr name="first_toggle_width" format="dimension" />
+        <!--第二个联动开关的宽度-->
+        <attr name="second_toggle_width" format="dimension" />
+        <!--第一个联动开关选中状态下的背景-->
+        <attr name="first_toggle_select_item_back" format="color" />
+        <!--第一个联动开关选中状态下字的选择器-->
+        <attr name="first_toggle_select_item_selector" format="reference" />
+    </declare-styleable>
+</resources>
