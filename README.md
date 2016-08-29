@@ -4,7 +4,6 @@
    
 ##使用说明:  
    <pre><code>
-   <?xml version="1.0" encoding="utf-8"?>
       <resources>
           <declare-styleable name="DoubleToggleView">
               <attr name="first_toggle_width" format="dimension" />
@@ -16,8 +15,11 @@
    </code></pre>
    
    **first_toggle_width:**第一个联动开关的宽度
+   
    **second_toggle_width:**第二个联动开关的宽度
+   
    **first_toggle_select_item_back:**第一个联动开关选中状态下的背景
+   
    **first_toggle_select_item_selector:**第一个联动开关选中状态下字的选择器
    
    ##后续改动: 
