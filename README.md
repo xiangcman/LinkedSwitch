@@ -3,8 +3,7 @@
    ![](http://upload-images.jianshu.io/upload_images/2528336-d832be2e96986f6a.gif?imageMogr2/auto-orient/strip)
    
 ##使用说明:  
-   <pre><code>
-      <resources>
+   <pre><code>```<resources>
           <declare-styleable name="DoubleToggleView">
               <attr name="first_toggle_width" format="dimension" />
               <attr name="second_toggle_width" format="dimension" />
@@ -28,8 +27,8 @@
    - 增加二级菜单展示效果的多样性。
    
    ##关于我:
-     -邮箱:a1002326270@163.com
-     -简书:[enter](http://www.jianshu.com/users/7b186b7247c1)
+     - 邮箱:a1002326270@163.com
+     - 简书:[enter](http://www.jianshu.com/users/7b186b7247c1)
    
    
    
