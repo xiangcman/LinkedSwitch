@@ -13,13 +13,13 @@
 </resources>```
    </code></pre>
    
-   **first_toggle_width:第一个联动开关的宽度**
-   
-   **second_toggle_width:第二个联动开关的宽度**
-   
-   **first_toggle_select_item_back:第一个联动开关选中状态下的背景**
-   
-   **first_toggle_select_item_selector:第一个联动开关选中状态下字的选择器**
+      **first_toggle_width:第一个联动开关的宽度**
+      
+      **second_toggle_width:第二个联动开关的宽度**
+      
+      **first_toggle_select_item_back:第一个联动开关选中状态下的背景**
+      
+      **first_toggle_select_item_selector:第一个联动开关选中状态下字的选择器**
    
 ##后续改动: 
    - 在数据源方面可能需要多种属性的显示，让数据源更加地灵活.
