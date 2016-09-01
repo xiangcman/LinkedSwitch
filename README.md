@@ -28,7 +28,7 @@
    
 ##关于我:
    - 邮箱:a1002326270@163.com
-   - 简书:[enter](http://www.jianshu.com/users/7b186b7247c1)
+   - 简书:http://www.jianshu.com/p/22c5ca481b09
    
    
    
