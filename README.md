@@ -3,14 +3,14 @@
    ![](https://github.com/1002326270xc/LinkedSwitch/blob/master/photo/demo.gif)
    
 ## 使用说明:  
-<pre><code>
-    <declare-styleable name="DoubleToggleView">
-        <attr name="first_toggle_width" format="dimension" />
-        <attr name="second_toggle_width" format="dimension" />
-        <attr name="first_toggle_select_item_back" format="color" />
-        <attr name="first_toggle_select_item_selector" format="reference" />
-    </declare-styleable>
-</code></pre>
+   <pre><code>
+       <declare-styleable name="DoubleToggleView">
+           <attr name="first_toggle_width" format="dimension" />
+           <attr name="second_toggle_width" format="dimension" />
+           <attr name="first_toggle_select_item_back" format="color" />
+           <attr name="first_toggle_select_item_selector" format="reference" />
+       </declare-styleable>
+   </code></pre>
    
    **first_toggle_width:第一个联动开关的宽度**
    
